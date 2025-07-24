@@ -1,3 +1,5 @@
+"hello everyone"
+
 CREATE TABLE Patient (
     Patient_id DECIMAL PRIMARY KEY,
     Patient_name VARCHAR(1024) NOT NULL,
