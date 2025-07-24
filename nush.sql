@@ -1,4 +1,3 @@
-"hello everyone"
 
 CREATE TABLE Patient (
     Patient_id DECIMAL PRIMARY KEY,
